@@ -25,3 +25,6 @@ a{
     text-transform: capitalize;
     color: blue;
 }
+footer p{
+    text-align: center;
+}
