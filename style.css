@@ -34,6 +34,10 @@ a{
     text-transform: capitalize;
     color: blue;
 }
+h1>a{
+    color: black;
+   
+}
 footer{
     text-align: center;
 }
